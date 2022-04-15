@@ -1,8 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a full time Student 👨‍🎓,
-- 🌱 I’m currently learning 😂
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
+- 🌱 I’m currently learning 
+- 🥅 2022 Goals: Developing an app and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to music 🎸, play chess ♟ and cycling 🚴‍♀️
 ## ⏲ What we are doing now:
 I'm developing a project for my education.
