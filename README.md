@@ -2,7 +2,7 @@
 
 ## I'm a full time Student 👨‍🎓,
 - 🌱 I’m currently learning 
-- 🥅 2022 Goals: Developing an app and learning artificial intelligence 🤖
+- 🥅 2023 Goals: Developing an app and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to music 🎸, play chess ♟ and cycling 🚴‍♀️
 ## ⏲ What we are doing now:
 I'm developing a project for my education.
